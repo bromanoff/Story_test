@@ -1,1 +1,1 @@
-This is a short test to check out the function of git.
+This is a short test to check out the functionality of git.

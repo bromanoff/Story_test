@@ -1,2 +1,1 @@
-This is the
-‚ third test
+This is the third and final test file
